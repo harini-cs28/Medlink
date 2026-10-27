@@ -1,0 +1,50 @@
+[
+  {
+    "id": "upl-1793021802",
+    "timestamp": "2026-10-26T13:36:42.689129+00:00",
+    "dataset_type": "hospital_inventory",
+    "filename": "hospital_inventory_test.csv",
+    "file_size": 153,
+    "rows_count": 2,
+    "status": "SUCCESS",
+    "version_tag": "v20261026_133642",
+    "details": "Processed 2 records successfully.",
+    "user": "Test Auditor"
+  },
+  {
+    "id": "upl-1793021737",
+    "timestamp": "2026-10-26T13:35:37.783707+00:00",
+    "dataset_type": "hospital_inventory",
+    "filename": "hospital_inventory_test.csv",
+    "file_size": 153,
+    "rows_count": 2,
+    "status": "SUCCESS",
+    "version_tag": "v20261026_133537",
+    "details": "Processed 2 records successfully.",
+    "user": "Test Auditor"
+  },
+  {
+    "id": "upl-1793021705",
+    "timestamp": "2026-10-26T13:35:05.229895+00:00",
+    "dataset_type": "hospital_inventory",
+    "filename": "hospital_inventory_test.csv",
+    "file_size": 153,
+    "rows_count": 2,
+    "status": "SUCCESS",
+    "version_tag": "v20261026_133505",
+    "details": "Processed 2 records successfully.",
+    "user": "Test Auditor"
+  },
+  {
+    "id": "upl-1793021547",
+    "timestamp": "2026-10-26T13:32:27.509000+00:00",
+    "dataset_type": "hospital_inventory",
+    "filename": "hospital_inventory_test.csv",
+    "file_size": 153,
+    "rows_count": 2,
+    "status": "SUCCESS",
+    "version_tag": "v20261026_133227",
+    "details": "Processed 2 records successfully.",
+    "user": "Test Auditor"
+  }
+]

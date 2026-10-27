@@ -1,0 +1,10 @@
+{
+  "versionTag": "v20261026_133642",
+  "lastUpdated": "2026-10-26T13:36:42.688236+00:00",
+  "lastDatasetUpdated": "hospital_inventory",
+  "lastUploadedFile": "hospital_inventory_test.csv",
+  "salesRecords": 2106,
+  "shortageRecords": 1599,
+  "hospitalBatches": 2,
+  "pipelineStatus": "Synchronized"
+}
